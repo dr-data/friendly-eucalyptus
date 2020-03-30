@@ -19,10 +19,9 @@ images:
     original:
       optimized: ''
       fallback: ''
-category: summer
+category: ''
 featured: false
 section: Store
-published: false
 
 ---
 Patent technology to protect from fluid infiltration. ASTM level 1
