@@ -1,6 +1,6 @@
 ---
 layout: product
-id: "1"
+id: "14"
 title: Crosstex Isofluid surgical mask
 description: Crosstex Isofluid surgical mask
 price: "14.5"
@@ -19,7 +19,7 @@ images:
     original:
       optimized: ''
       fallback: ''
-category: summer
+category: ''
 featured: false
 section: Store
 
