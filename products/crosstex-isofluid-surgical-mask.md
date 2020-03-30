@@ -19,7 +19,7 @@ images:
     original:
       optimized: ''
       fallback: ''
-category: ''
+category: summer
 featured: false
 section: Store
 
