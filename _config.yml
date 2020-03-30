@@ -4,7 +4,7 @@ permalink: "/:title/"
 title: Snipcart
 snipcart_js: https://cdn.snipcart.com/themes/v3.0.4/default/snipcart.js
 snipcart_css: https://cdn.snipcart.com/themes/v3.0.4/default/snipcart.css
-snipcart_api_key: S_ZDIzM2VmNTItMzdhNy00NzE2LWEzNmItYWZhYzVlYmZhOGZmNjM3MjExMzk5MzE1MzY5MTgx
+snipcart_api_key: ZjQ0MDNjODUtMjkyZC00MjM4LWIzNDMtMDg2YmEzMTYxYjhiNjM3MjExMzk2ODMwNjM2MzQ5
 logos:
   light:
     optimized: images/logo-white.svg
