@@ -1,6 +1,6 @@
 ---
-slug: bigplants
-title: Big plants
+slug: gloves
+title: Gloves
 section: Store
 layout: category
 menu:
