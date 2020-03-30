@@ -2,6 +2,9 @@
 layout: category
 slug: indicator
 title: Indicator
-section: Store
+section: ''
+menu:
+  categories:
+    weight: 5
 
 ---
