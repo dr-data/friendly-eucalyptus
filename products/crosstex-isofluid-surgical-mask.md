@@ -19,7 +19,7 @@ images:
     original:
       optimized: ''
       fallback: ''
-category: ''
+category: masks
 featured: false
 section: Store
 
