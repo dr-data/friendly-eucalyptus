@@ -461,10 +461,11 @@ models:
         name: category
         label: Category
         options:
-          - summer
-          - europe
-          - bigplants
-          - cactuses
+          - shield
+          - gloves
+          - sanitizer
+          - indicator
+          - mask
       - type: boolean
         name: featured
         label: Featured
