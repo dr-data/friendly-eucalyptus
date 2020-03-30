@@ -10,7 +10,7 @@ images:
       optimized: ''
       fallback: ''
     original:
-      optimized: ''
+      optimized: "/images/crosstex_astm_level_1_isofluid_secure_fit_surgical_mask_1582633701_509f5c3a_progressive.jpg"
       fallback: ''
   featured:
     thumbnail:
