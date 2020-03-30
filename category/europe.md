@@ -1,6 +1,6 @@
 ---
-slug: europe
-title: Plants from Europe
+slug: masks
+title: 'Surgical Masks and Respirator '
 section: Store
 layout: category
 menu:
